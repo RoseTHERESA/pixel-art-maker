@@ -1,6 +1,6 @@
 // PIXEL ART with COLOR TILES
 
-// Create the grid
+// Create the grid.
 
 for (var i=0; i < 1012; i++) {
 	var body = document.querySelector("body");
@@ -14,7 +14,7 @@ for (var i=0; i < 1012; i++) {
 
 	}
 
-// Create color palette
+// Create color palette.
 // http://www.crockford.com/wrrrld/color.html 
     var colors = [
             "aliceblue",
@@ -179,7 +179,7 @@ for (var i=0; i < 1012; i++) {
 
 
 
-// Listen for clicks
+// Listen for clicks.
 
 	var divs = document.querySelectorAll("div");
 
